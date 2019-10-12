@@ -1,0 +1,2 @@
+{"/home/alexander/hexlet-jest/src/index.js": {"path":"/home/alexander/hexlet-jest/src/index.js","statementMap":{"0":{"start":{"line":1,"column":22},"end":{"line":1,"column":54}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":1,"column":15},"end":{"line":1,"column":16}},"loc":{"start":{"line":1,"column":22},"end":{"line":1,"column":54}},"line":1}},"branchMap":{},"s":{"0":2},"f":{"0":2},"b":{},"_coverageSchema":"43e27e138ebf9cfc5966b082cf9a028302ed4184","hash":"8db952c76dcc57f48c371e818067732ee149aa78"}
+}
